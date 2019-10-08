@@ -8,7 +8,9 @@
 import React from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
-import { useStaticQuery, graphql } from "gatsby"
+import { withPrefix, useStaticQuery, graphql } from "gatsby"
+
+import ogImage from "../images/rachel-cherry-social.png"
 
 function SEO({ description, lang, meta, title }) {
   const { site } = useStaticQuery(
@@ -17,8 +19,9 @@ function SEO({ description, lang, meta, title }) {
         site {
           siteMetadata {
             title
+            shortTitle
             description
-            author
+            authorTwitter
           }
         }
       }
@@ -27,13 +30,19 @@ function SEO({ description, lang, meta, title }) {
 
   const metaDescription = description || site.siteMetadata.description
 
+  if (!title) {
+    title = site.siteMetadata.title
+  } else {
+    title += ` - ${site.siteMetadata.shortTitle}`
+  }
+
   return (
     <Helmet
       htmlAttributes={{
         lang,
       }}
       title={title}
-      titleTemplate={`%s | ${site.siteMetadata.title}`}
+      //titleTemplate={`%s - ${site.siteMetadata.shortTitle}`}
       meta={[
         {
           name: `description`,
@@ -52,12 +61,20 @@ function SEO({ description, lang, meta, title }) {
           content: `website`,
         },
         {
+          property: `og:image`,
+          content: ogImage,
+        },
+        {
+          property: `og:image:alt`,
+          content: `A close up of Rachel's face, looking mischievous.`,
+        },
+        {
           name: `twitter:card`,
           content: `summary`,
         },
         {
           name: `twitter:creator`,
-          content: site.siteMetadata.author,
+          content: `@` + site.siteMetadata.authorTwitter,
         },
         {
           name: `twitter:title`,
@@ -67,13 +84,23 @@ function SEO({ description, lang, meta, title }) {
           name: `twitter:description`,
           content: metaDescription,
         },
+        {
+          name: `twitter:card`,
+          content: `summary_large_image`,
+        },
+        {
+          name: `twitter:image:src`,
+          content: ogImage,
+        },
       ].concat(meta)}
-    />
+    >
+      <link rel="preload" href={withPrefix('js/bamadesigner.js')} as="script" />
+    </Helmet>
   )
 }
 
 SEO.defaultProps = {
-  lang: `en`,
+  lang: `en-US`,
   meta: [],
   description: ``,
 }
@@ -82,7 +109,7 @@ SEO.propTypes = {
   description: PropTypes.string,
   lang: PropTypes.string,
   meta: PropTypes.arrayOf(PropTypes.object),
-  title: PropTypes.string.isRequired,
+  title: PropTypes.string,
 }
 
 export default SEO

@@ -1,0 +1,35 @@
+#footer {
+	margin: $footer-margin-top 0 0;
+	text-align: left;
+
+	.social-media-icons {
+		margin: 10px 0 0;
+	}
+
+	.container {
+		background: $footer-bg;
+		padding-top: $footer-padding-top;
+		padding-bottom: $footer-padding-bottom;
+
+		.copyright {
+			font-size: 0.9rem;
+			opacity: 0.9;
+		}
+	}
+
+	@media #{$footer-bp} {
+
+		.container {
+			display: flex;
+			align-items: center;
+
+			.copyright {
+				text-align: right;
+			}
+
+			.container-item {
+				flex-grow: 1;
+			}
+		}
+	}
+}

@@ -1,0 +1,159 @@
+// Include our settings.
+@import "_settings";
+
+// @TODO Only include on pages with comments.
+
+#comments {
+	background: rgba(255,255,255,0.8);
+	padding: 30px;
+	margin: 3.5em 0 0 0;
+
+	.comment-respond {
+
+		.comment-reply-title {
+			font-size: 1.5em;
+			font-weight: 300;
+			text-transform: uppercase;
+			padding: 0;
+			margin: 0 0 0.5em 0;
+		}
+
+		.form-submit {
+			.submit {
+				width: 100%;
+				border: 0;
+				background: $light-gray-border-color;
+				padding: 10px 20px;
+				line-height: 20px;
+				text-transform: uppercase;
+			}
+		}
+
+		.comment-form {
+			font-size: 1rem;
+			line-height: 1.6;
+
+			> *:first-child {
+				margin-top: 0;
+			}
+
+			> *:last-child {
+				margin-bottom: 0;
+			}
+
+			.required {
+				color: #900;
+			}
+
+			p {
+				margin: 0 0 1.2rem 0;
+			}
+
+			label {
+				display: block;
+				margin: 0 0 3px 0;
+			}
+
+			input,
+			textarea {
+				width: 100%;
+				border: 1px solid $light-gray-border-color;
+				padding: 5px;
+			}
+
+			input.submit {
+				background: $dark-gray;
+				color: #fff;
+				border: 0;
+
+				&:hover,
+				&:focus {
+					background: $primary-color;
+				}
+			}
+		}
+	}
+
+	.comments-title {
+		font-size: 1.5em;
+		margin: 0 0 1em 0;
+	}
+
+	.comment-list {
+		list-style: none;
+		margin: 0 0 1.8rem 5px;
+		padding: 0 0 1.5rem 0;
+		border-bottom: 1px solid $light-gray-border-color;
+
+		.comment {
+
+			.comment-meta {
+				border: 0;
+				padding: 0;
+				margin: 0 0 20px 0;
+
+				a {
+					color: inherit;
+				}
+
+				.avatar {
+					margin: 0 12px 0 0;
+					vertical-align: middle;
+				}
+
+				.comment-meta-text {
+					display: inline-block;
+					vertical-align: middle;
+				}
+
+				.comment-author {
+
+					.author-name {
+						font-weight: bold;
+					}
+				}
+
+				.comment-time {
+					font-size: 0.9em;
+					opacity: 0.7;
+				}
+			}
+
+			.comment-content {
+
+				> *:last-child {
+					margin-bottom: 0;
+				}
+			}
+
+			.comment-body {
+				padding: 20px;
+			}
+
+			&.odd {
+
+				.comment-body {
+					background: rgba(0, 0, 0, 0.025);
+				}
+			}
+		}
+
+		ol {
+			list-style: none;
+			margin: 0.5rem 0 1rem 3rem;
+		}
+	}
+
+	.no-comments {
+		background: rgba( $primary-color, 0.05 );
+		font-style: italic;
+		font-weight: bold;
+		color: $primary-color;
+		padding: 20px;
+	}
+
+	@media #{$container-max-bp} {
+		margin-left: (0 - $container-horiz-padding);
+		margin-right: (0 - $container-horiz-padding);
+	}
+}
