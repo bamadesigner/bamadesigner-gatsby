@@ -11,7 +11,7 @@ Before Disney, she spent over nine years working in higher education and is the 
 
 Rachel is a maintainer/owner of the [WP Rig](https://wprig.io/) WordPress starter theme.
 
-She is an impassioned advocate for the importance of accessibility and universal design. To learn more about accessibility, check out this extensive list of [accessibility resources](http://wpcampus.org/resources/accessibility/) curated by the WPCampus community.
+She is a member of [IAAP (International Association of Accessibility Professionals)](https://www.accessibilityassociation.org/) and is an impassioned advocate for the importance of accessibility and universal design. To learn more about accessibility, check out this extensive list of [accessibility resources](http://wpcampus.org/resources/accessibility/) curated by the WPCampus community.
 
 Rachel also encourages collaboration and professional development as a public speaker and conference/meetup organizer. [She is a frequent speaker](/speaking/) at various higher ed and technology-related events.
 
