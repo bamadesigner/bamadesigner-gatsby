@@ -45,6 +45,9 @@ Podcasts give me a chance to talk about the topics I'm passionate about while ha
 
 [WordCamps](https://central.wordcamp.org/) are community-organized conferences that focus on WordPress. They are (usually) city-based. These informal events allow myself, and other WordPress users, the opportunity to share what we're doing with WordPress, learn from others, and visit with dear friends. Sometimes I apply to speak, sometimes I simply go to attend and enjoy the camaraderie and professional development. Some of my talks are posted on WordPress.tv. They are listed under [Rachel Cherry](https://wordpress.tv/speakers/rachel-cherry/) and [Rachel Carden](https://wordpress.tv/speakers/rachel-carden/).
 
+* **WordCamp Boise** (2019)
+    * Keynote: The tale of the Gutenberg Accessibility Audit
+    * [Session slides](../presentations/wordcamp-boise-tale-of-the-gutenberg-audit.pdf)
 * **WordCamp US** (2018)
     * I gave an impromptu talk on accessibility during Morten's talk on [Moving the Web Forward with WordPress](https://wordpress.tv/2018/12/30/morten-rand-hendriksen-moving-the-web-forward-with-wordpress/)
 * **Rochester** (2018)
