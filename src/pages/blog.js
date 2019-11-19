@@ -3,6 +3,8 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 
+import("../scss/styles.scss")
+
 const IndexPage = ({ data }) => (
   <Layout>
     {data.allMarkdownRemark.edges.map(({ node }) => (

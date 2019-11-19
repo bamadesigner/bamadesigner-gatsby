@@ -14,8 +14,6 @@ import Footer from "./footer"
 
 import SEO from "../components/seo"
 
-import("../scss/styles.scss")
-
 const Layout = (props) => {
   return (
     <>
