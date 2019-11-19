@@ -16,7 +16,7 @@ Webinars take advantage of technology and allow anyone to teach, or share what t
 
 * [How to Create Accessible Websites](http://webaccessibilitysummit.org/schedule/how-to-create-accessible-websites/)
     * [Web Accessibility Summit](http://webaccessibilitysummit.org/) (2018), Columbia, MO
-    * [View slides and resources](/web-a11y-summit-2018/)
+    * [Session slides and resources](/web-a11y-summit-2018/)
 
 ## Podcasts/Interviews
 
@@ -54,7 +54,7 @@ Podcasts give me a chance to talk about the topics I'm passionate about while ha
     * Keynote: WordPress and the responsibility of 31% of the web
 * **New York** (2018)
     * **Session:** How to create accessible websites
-    * [View slides](https://bamadesigner.com/wcnyc/)
+    * [Session slides](https://bamadesigner.com/wcnyc/)
 * **Asheville** (2018)
     * Keynote
 * **Birmingham** (2018)
