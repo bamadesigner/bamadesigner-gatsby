@@ -7,7 +7,9 @@ template: ""
 [Gatsby](https://www.gatsbyjs.org/) is a free and open source framework based on React. I have become a big fan of their community, their leadership, and the priority they place on accessibility.
 
 ## Gatsby Google Group
-If you'd like to discuss, share, support other devs, and learn all things Gatsby: you are welcome to join our [Gatsby Google Group](https://groups.google.com/a/bamadesigner.com/forum/#!forum/gatsby). I look forward to learning with you!
+I created (and moderate) a Google Group forum where web developers discuss, share, support each other, and learn all things Gatsby. You are welcome to join! I look forward to learning with you.
+
+<a class="button primary" href="https://groups.google.com/a/bamadesigner.com/forum/#!forum/gatsby">Join our Gatsby Google Group</a>
 
 ### 100 Days of Gatsby Challenge
 Our group is participating in the #100DaysofGatsby challenge starting January 1, 2020.
