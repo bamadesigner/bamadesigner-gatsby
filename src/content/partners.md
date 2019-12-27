@@ -2,6 +2,7 @@
 path: "/partners/"
 date: "2019-05-04"
 title: "Partners"
+template: ""
 ---
 If you're looking for skilled artisans to handle your web needs, I highly recommend these amazing humans. Quality is the name of the game with this bunch.
 
