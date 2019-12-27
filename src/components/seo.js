@@ -94,7 +94,7 @@ function SEO({ description, lang, meta, title }) {
         },
       ].concat(meta)}
     >
-      <link rel="preload" href={withPrefix('js/bamadesigner.js')} as="script" />
+      <script src={withPrefix('js/bamadesigner.js')} type="text/javascript" />
     </Helmet>
   )
 }
