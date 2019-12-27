@@ -31,6 +31,7 @@ const Header = (props) => {
     { slug: '/accessibility/', label: 'Accessibility' },
     { slug: '/speaking/', label: 'Speaking' },
     { url: 'https://wpcampus.org/', label: 'WPCampus' },
+    { slug: '/gatsby/', label: 'Gatsby' },
     { url: 'https://shop.spreadshirt.com/rachelcherry/', label: 'Shop' },
     { slug: '/partners/', label: 'Partners' },
     //{ slug: '/reading', label: 'Reading' },
