@@ -3,6 +3,7 @@ path: "/gatsby/"
 date: "2019-12-27"
 title: "Gatsby"
 template: ""
+description: "Gatsby is a free and open source framework based on React. I have become a big fan of their community, their leadership, and the priority they place on accessibility. Join my Gatsby Google Group."
 ---
 [Gatsby](https://www.gatsbyjs.org/) is a free and open source framework based on React. I have become a big fan of their community, their leadership, and the priority they place on accessibility.
 
@@ -12,7 +13,7 @@ I created (and moderate) a Google Group forum where web developers discuss, shar
 <a class="button primary" href="https://groups.google.com/a/bamadesigner.com/forum/#!forum/gatsby">Join our Gatsby Google Group</a>
 
 ### 100 Days of Gatsby Challenge
-Our group is participating in the #100DaysofGatsby challenge starting January 1, 2020.
+Our Google Group is participating in the #100DaysofGatsby challenge starting January 1, 2020.
 
 <a class="button primary" href="https://www.gatsbyjs.org/blog/100days/">Register for the #100DaysOfGatsby challenge</a>
 
