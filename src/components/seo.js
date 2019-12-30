@@ -18,6 +18,7 @@ function SEO({ description, lang, meta, title }) {
       query {
         site {
           siteMetadata {
+            siteUrl
             title
             shortTitle
             description
@@ -69,10 +70,6 @@ function SEO({ description, lang, meta, title }) {
           content: `A close up of Rachel's face, looking mischievous.`,
         },
         {
-          name: `twitter:card`,
-          content: `summary`,
-        },
-        {
           name: `twitter:creator`,
           content: `@` + site.siteMetadata.authorTwitter,
         },
@@ -90,7 +87,7 @@ function SEO({ description, lang, meta, title }) {
         },
         {
           name: `twitter:image:src`,
-          content: ogImage,
+          content: site.siteMetadata.siteUrl + ogImage,
         },
       ].concat(meta)}
     >
