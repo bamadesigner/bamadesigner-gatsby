@@ -15,6 +15,8 @@ I created (and moderate) a Google Group forum where web developers discuss, shar
 ### 100 Days of Gatsby Challenge
 Our Google Group is participating in the #100DaysofGatsby challenge starting January 1, 2020.
 
+You can find the challenges on the Gatsby blog using their ["100DaysOfGatsby" blog tag](https://www.gatsbyjs.org/blog/tags/100-day-of-gatsby).
+
 <a class="button primary" href="https://www.gatsbyjs.org/blog/100days/">Register for the #100DaysOfGatsby challenge</a>
 
 ### Code of Conduct
