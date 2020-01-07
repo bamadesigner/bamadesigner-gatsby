@@ -51,6 +51,12 @@ img, p, ul, ol, blockquote, .panel, figure {
 	margin: $element-margin-vert 0;
 }
 
+/* Markdown converts li with ul children to <p> */
+ul > li > p,
+ol > li > p {
+	margin: 0;
+}
+
 ul, ol {
 	margin-left: $list-margin-side;
 	padding: 0;
