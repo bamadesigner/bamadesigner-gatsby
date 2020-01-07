@@ -10,12 +10,20 @@ const SiteTitle = () => {
   )
 }
 
-const SiteTitleElement = (props) => {
+const SiteTitleElement = props => {
   const siteTitleClass = "site-title"
   if (props.isHome) {
-    return (<h1 className={siteTitleClass}><SiteTitle /></h1>)
+    return (
+      <h1 className={siteTitleClass}>
+        <SiteTitle />
+      </h1>
+    )
   }
-  return (<div className={siteTitleClass}><SiteTitle /></div>)
+  return (
+    <div className={siteTitleClass}>
+      <SiteTitle />
+    </div>
+  )
 }
 
 const AddSubscribeButton = () => {
@@ -24,20 +32,20 @@ const AddSubscribeButton = () => {
   )
 }
 
-const Header = (props) => {
+const Header = props => {
   const navItems = [
     //{ slug: '/about', label: 'About' },
     //{ slug: '/blog', label: 'Blog' },
-    { slug: '/accessibility/', label: 'Accessibility' },
-    { slug: '/speaking/', label: 'Speaking' },
-    { url: 'https://wpcampus.org/', label: 'WPCampus' },
-    { slug: '/gatsby/', label: 'Gatsby' },
-    { url: 'https://shop.spreadshirt.com/rachelcherry/', label: 'Shop' },
-    { slug: '/partners/', label: 'Partners' },
+    { slug: "/accessibility/", label: "Accessibility" },
+    { slug: "/speaking/", label: "Speaking" },
+    { url: "https://wpcampus.org/", label: "WPCampus" },
+    { slug: "/gatsby/", label: "Gatsby" },
+    { url: "https://shop.spreadshirt.com/rachelcherry/", label: "Shop" },
+    { slug: "/partners/", label: "Partners" },
     //{ slug: '/reading', label: 'Reading' },
     //{ slug: '/highered', label: 'Higher Ed' },
-    { slug: '/contact/', label: 'Contact' },
-  ];
+    { slug: "/contact/", label: "Contact" },
+  ]
 
   return (
     <header id="header">
@@ -57,9 +65,9 @@ const Header = (props) => {
           <Nav className="site-nav" label="Primary" items={navItems} />
           <AddSubscribeButton />
           <SocialMediaNav />
-        </div >
-      </div >
-    </header >
+        </div>
+      </div>
+    </header>
   )
 }
 
