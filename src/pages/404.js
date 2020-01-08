@@ -3,8 +3,6 @@ import { Link } from "gatsby"
 
 import Layout from "../components/layout"
 
-import("../scss/styles.scss")
-
 const NotFoundPage = () => (
   <Layout>
     <h1>Page Not Found</h1>
