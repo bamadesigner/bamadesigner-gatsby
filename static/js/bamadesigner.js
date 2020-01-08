@@ -107,12 +107,13 @@ function menuKeydown(e) {
 	}
 }
 
+// @TODO Remove jQuery
 // TODO: Update so phrases are tied to instance of hiRoy class. Remove repeating code.
 
-/*//// HI ROY ////
+//// HI ROY ////
 
 // Will hold the string being typed.
-var user_key_string = '';
+/*var user_key_string = '';
 
 // Get the Roy phrases.
 var show_roy_phrase = '7273827989'; // Hi Roy
@@ -135,20 +136,20 @@ var hi_shawn_present = false;
 if (show_roy_phrase || show_shawn_phrase) {
 
 	// Track when the user types.
-	$(document).keyup(function ($event) {
+	document.addEventListener('keyup', function (event) {
 
 		// Only do it on the body element.
-		if ('body' != $event.target.tagName.toLowerCase()) {
+		if ('body' != event.target.tagName.toLowerCase()) {
 			return false;
 		}
 
 		// Make sure we have a key code from their keystroke.
-		if (!($event.which !== undefined && $event.which > 0)) {
+		if (!(event.which !== undefined && event.which > 0)) {
 			return false;
 		}
 
 		// Add to the test string.
-		user_key_string += $event.which;
+		user_key_string += event.which;
 
 		// If we're hiding everyone.
 		if (bye_all_phrase && user_key_string === bye_all_phrase) {

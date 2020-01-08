@@ -96,6 +96,9 @@ function SEO({ description, lang, meta, title }) {
   )
 }
 
+// @TODO remove jQuery and add back this file.
+/*<script src={withPrefix('hi-roy.min.js')} type="text/javascript" />*/
+
 SEO.defaultProps = {
   lang: `en-US`,
   meta: [],
