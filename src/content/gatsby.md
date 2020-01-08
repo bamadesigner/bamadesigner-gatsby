@@ -42,6 +42,37 @@ For more detailed instructions, [view our "Welcome" thread](https://groups.googl
 * **Be mindful of using gender specific language** like “guys” as our group has more than just members of the male gender.
 * Keep in mind that most online communication lacks nuance, like nonverbal cues, facial expressions, and body language.
 * While we all struggle and become frustrated from time to time, this will **not be a place to vent or criticize.**
+* **Use tags to categorize your posts**. Check out the [list of tags](#tags) for more information.
+
+### List of tags <a name="tags"></a>
+Using tags is a great way to keep our posts organized. I recommend only assigning the top 2-3 most important tags to each post.
+
+Here's a list of the current tags and what they might best be used for:
+
+* **group-admin**
+    * I will use this tag for posts like this one, which discuss or share information related to the group
+* **100-days-of-gatsby**
+    * Any questions, discussions, resources, etc. related to the 100 Days of Gatsby challenge
+* **challenge-1, challenge-2, challenge-3, challenge-4, challenge-5, etc.**
+    * Any questions, discussions, resources, etc. related to specific challenges from the 100 Days of Gatsby challenge
+* **for-beginners**
+    * If you're sharing resources, tutorials, etc for beginners
+* **resources**
+    * If you're sharing (or looking for) resources
+* **demos-examples**
+    * If you're sharing (or looking for) demos or examples
+* **tutorials**
+    * If you're sharing (or looking for) tutorials
+* **cms, wordpress, drupal, etc**
+    * If you're posting anything related to CMSes, or any specific CMSes
+* **hosting**
+    * Any questions, discussions, resources, etc. related to hosting
+* **looking-for-feedback**
+    * If you're looking for thoughts or ideas in response to your post
+* **looking-for-help**
+    * If you're looking for help (with coding or debugging) in response to your post
+* **debugging**
+    * If your post is about debugging a problem
 
 ### Code of Conduct
 If need be, I will put together a Code of Conduct but until then: be kind, considerate, constructive, and respectful and we won't have a problem. However, I reserve the right to remove anyone I feel is harmful to the group, its goals, and its members.
