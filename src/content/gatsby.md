@@ -2,7 +2,7 @@
 path: "/gatsby/"
 date: "2019-12-27"
 title: "Gatsby"
-template: ""
+template: "gatsby"
 description: "Gatsby is a free and open source framework based on React. I have become a big fan of their community, their leadership, and the priority they place on accessibility. Join my Gatsby Group community."
 ---
 [Gatsby](https://www.gatsbyjs.org/) is a free and open source framework based on React. I have become a big fan of their community, their leadership, and the priority they place on accessibility. This website is built using Gatsby.
