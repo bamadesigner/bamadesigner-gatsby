@@ -3,86 +3,23 @@ path: "/gatsby/"
 date: "2019-12-27"
 title: "Gatsby"
 template: ""
-description: "Gatsby is a free and open source framework based on React. I have become a big fan of their community, their leadership, and the priority they place on accessibility. Join my Gatsby Google Group."
+description: "Gatsby is a free and open source framework based on React. I have become a big fan of their community, their leadership, and the priority they place on accessibility. Join my Gatsby Group community."
 ---
 [Gatsby](https://www.gatsbyjs.org/) is a free and open source framework based on React. I have become a big fan of their community, their leadership, and the priority they place on accessibility. This website is built using Gatsby.
 
-## Gatsby Google Group
-I created (and moderate) a Google Group forum where web developers discuss, share, support each other, and learn all things Gatsby. You are welcome to join! I look forward to learning with you.
+## Gatsby Group Community
+I created (and moderate) a [Gatsby Groups.io forum](https://groups.io/g/gatsby) where web developers discuss, share, support each other, and learn all things Gatsby. You are welcome to join! I look forward to learning with you.
 
-<a class="button primary" href="https://groups.google.com/a/bamadesigner.com/forum/#!forum/gatsby">Join our Gatsby Google Group</a>
+*Initially, this group was hosted as a Google Group. We migrated to Groups.io on January 26, 2020 to have more features, options, and customization.*
+
+<a class="button primary" href="https://groups.io/g/gatsby">Join our Gatsby Group community</a>
 
 ### 100 Days of Gatsby Challenge
-Our Google Group is participating in the "100 Days of Gatsby" challenge starting January 1, 2020.
+Our Gatsby Group is participating in the "100 Days of Gatsby" challenge starting January 1, 2020.
 
 You can find the challenges on the Gatsby blog using their ["100DaysOfGatsby" blog tag](https://www.gatsbyjs.org/blog/tags/100-day-of-gatsby).
 
 <a class="button primary" href="https://www.gatsbyjs.org/blog/100days/">Register for the #100DaysOfGatsby challenge</a>
 
-### Our group mission
-A place for all members to discuss, share, support each other, and learn all things Gatsby.
-
-### Why a Google Group?
-As someone who has many Slack accounts, I'm intrigued to experiment with Google Groups as a method of group communication in which you do not have to follow along in real time to participate. **You can read and respond in your own time!**
-
-### How to get the most out of the group:
-If you've never participated in a Google Group before, it's basically a listserv. **It's an email powered web forum.** For the complete list, [view our "Welcome" thread](https://groups.google.com/a/bamadesigner.com/d/msg/gatsby/z6pKsH0I6ko/TXi0X8c6BAAJ).
-
-* You can follow along by email.
-* You can [view all posts in the forum](https://groups.google.com/a/bamadesigner.com/forum/#!forum/gatsby).
-* While I won't require any specific level of activity (we all have busy lives), I do ask that you participate when possible and refrain from only "lurking". **We all want to learn and hear from you!**
-
-### Before you post to the group:
-
-For more detailed instructions, [view our "Welcome" thread](https://groups.google.com/a/bamadesigner.com/d/msg/gatsby/z6pKsH0I6ko/TXi0X8c6BAAJ).
-
-* **Look at previous forum posts** to see if your topic is already being discussed.
-* Be sure to include a **concise** subject and message
-* Did you search the web first for answers? e.g. Google or DuckDuckGo
-* **Be mindful of using gender specific language** like “guys” as our group has more than just members of the male gender.
-* Keep in mind that most online communication lacks nuance, like nonverbal cues, facial expressions, and body language.
-* While we all struggle and become frustrated from time to time, this will **not be a place to vent or criticize.**
-* **Use tags to categorize your posts**. Check out the [list of tags](#tags) for more information.
-
-### List of tags <a name="tags"></a>
-Using tags is a great way to keep our posts organized. I recommend only assigning the top 2-3 most important tags to each post.
-
-Here's a list of the current tags and what they might best be used for:
-
-* **group-admin**
-    * I will use this tag for posts like this one, which discuss or share information related to the group
-* **100-days-of-gatsby**
-    * Any questions, discussions, resources, etc. related to the 100 Days of Gatsby challenge
-* **challenge-1, challenge-2, challenge-3, challenge-4, challenge-5, etc.**
-    * Any questions, discussions, resources, etc. related to specific challenges from the 100 Days of Gatsby challenge
-* **for-beginners**
-    * If you're sharing resources, tutorials, etc for beginners
-* **resources**
-    * If you're sharing (or looking for) resources
-* **demos-examples**
-    * If you're sharing (or looking for) demos or examples
-* **tutorials**
-    * If you're sharing (or looking for) tutorials
-* **cms, wordpress, drupal, etc**
-    * If you're posting anything related to CMSes, or any specific CMSes
-* **hosting**
-    * Any questions, discussions, resources, etc. related to hosting
-* **looking-for-feedback**
-    * If you're looking for thoughts or ideas in response to your post
-* **looking-for-help**
-    * If you're looking for help (with coding or debugging) in response to your post
-* **debugging**
-    * If your post is about debugging a problem
-
-### Code of Conduct
-If need be, I will put together a Code of Conduct but until then: be kind, considerate, constructive, and respectful and we won't have a problem. However, I reserve the right to remove anyone I feel is harmful to the group, its goals, and its members.
-
-### To report inappropriate behavior
-If you've been the victim of, or witness to, inappropriate behavior, please forward the information to [gatsby+owners@bamadesigner.com](mailto:gatsby+owners@bamadesigner.com).
-
 ### Contact me about the group
-If you ever need to contact me (for questions, ideas for the group, or to report inappropriate behavior) you may do so by sending an email to [gatsby+owners@bamadesigner.com](mailto:gatsby+owners@bamadesigner.com).
-
-### Resources
-* [Learn about Google Groups](https://support.google.com/groups/answer/46601?hl=en)
-* [Create and respond to Google Group posts](https://support.google.com/groups/answer/1046523?hl%3Den%26ref_topic%3D2458614)
+If you ever need to contact me (for questions, ideas for the group, or to report inappropriate behavior) you may do so by sending an email to [gatsby+owners@groups.io](mailto:gatsby+owners@groups.io).
