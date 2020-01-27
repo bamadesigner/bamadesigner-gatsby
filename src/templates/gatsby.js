@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import Article from "../components/article"
 
 import gatsbyLogo from "../images/Gatsby_Monogram_Black.png"
+import gatsbySocial from "../images/gatsby-social.png"
 
 export default function Template({
     data, // this prop will be injected by the GraphQL query below.
@@ -19,7 +20,7 @@ export default function Template({
     }
 
     return (
-        <Layout pageTitle={pageTitle} pageDescription={frontmatter.description}>
+        <Layout pageTitle={pageTitle} pageDescription={frontmatter.description} ogImage={gatsbySocial}>
             <img
                 alt="Gatsby logo"
                 class="alignright"

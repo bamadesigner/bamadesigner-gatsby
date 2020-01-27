@@ -17,7 +17,7 @@ import SEO from "../components/seo"
 const Layout = (props) => {
   return (
     <>
-      <SEO title={props.pageTitle} description={props.pageDescription} />
+      <SEO title={props.pageTitle} description={props.pageDescription} ogImage={props.ogImage} />
       <a href="#content" id="skip-nav">Skip to main content</a>
       <div id="wrapper">
         <div id="bamadesigner-pic-small"></div>
