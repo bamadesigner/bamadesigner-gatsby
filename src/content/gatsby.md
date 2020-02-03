@@ -5,7 +5,9 @@ title: "Gatsby"
 template: "gatsby"
 description: "Gatsby is a free and open source framework based on React. I have become a big fan of their community, their leadership, and the priority they place on accessibility. Join my Gatsby Group community."
 ---
-[Gatsby](https://www.gatsbyjs.org/) is a free and open source framework based on React. I have become a big fan of their community, their leadership, and the priority they place on accessibility. This website is built using Gatsby.
+[Gatsby](https://www.gatsbyjs.org/) is a free and open source framework based on React. I have become a big fan of their community, their leadership, and the priority they place on accessibility.
+
+This website is built using Gatsby.
 
 ## Gatsby Group Community
 I created (and moderate) a [Gatsby Groups.io forum](https://groups.io/g/gatsby) where web developers discuss, share, support each other, and learn all things Gatsby. You are welcome to join! I look forward to learning with you.
