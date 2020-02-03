@@ -36,6 +36,7 @@ const Header = props => {
   const navItems = [
     //{ slug: '/about', label: 'About' },
     //{ slug: '/blog', label: 'Blog' },
+    { slug: "/services/", label: "Services" },
     { slug: "/accessibility/", label: "Accessibility" },
     { slug: "/speaking/", label: "Speaking" },
     { url: "https://wpcampus.org/", label: "WPCampus" },
