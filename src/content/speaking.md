@@ -24,7 +24,6 @@ Webinars take advantage of technology and allow anyone to teach, or share what t
 Podcasts give me a chance to talk about the topics I'm passionate about while hanging out with some pretty awesome people.
 
 * WP Tavern: [Introduction to the WordPress Governance Project](https://wptavern.com/wpweekly-episode-344-introduction-to-the-wordpress-governance-project)
-* BobWP: [Higher Education, WordPress and WPCampus](https://bobwp.com/higher-education-wordpress-and-wpcampus-with-rachel-cherry/)
 * WP Tavern: [WordPress in HigherEd, Accessibility, and More](https://wptavern.com/wpweekly-episode-301-wordpress-in-highered-accessibility-and-more-with-rachel-cherry)
 * WP-Tonic Show: [General interview with a focus on WPCampus and accessibility](https://www.wp-tonic.com/podcast/259-wp-tonic-show-special-guest-rachel-cherry-wpcampus/)
 * Post Status Draft: [WordPress in higher education](https://poststatus.com/wordpress-higher-education-rachel-cherry-draft-podcast/)
@@ -32,7 +31,6 @@ Podcasts give me a chance to talk about the topics I'm passionate about while ha
 * Office Hours: [What do Custom Post Types, Accessibility, and Education Have in Common?](https://officehours.fm/podcast/60-2/)
 * Matt Report: [WPCampus: Higher Education and WordPress](https://mattreport.com/wpcampus-higher-education-and-wordpress/)
 * WPblab: [Accessibility, WordPress and Your Website](https://www.wpwatercooler.com/video/a11y-wordpress-website-wrachel-carden-bamadesigner-wpblab/)
-* ifyouwillit: [WordPress in higher ed, and being a maker](https://ifyouwillit.com/business/presentations/video/interview-rachel-carden-wordpress-higher-ed-maker/)
 * WP Engine: [WordPress Multisites For Higher Ed](https://www.youtube.com/watch?v=xbUVQISkJHY)
 * The WP Crowd: [CPT 101 WordPress Custom Post Types](https://www.thewpcrowd.com/podcast/episode-012-cpt-101-wordpress-custom-post-types/)
 * The WP Crowd: [Accessibility In WordPress](https://www.thewpcrowd.com/podcast/episode-006-accessibility-in-wordpress/)
