@@ -7,7 +7,7 @@ description: ""
 ---
 I am a freelance software engineer and consultant with a focus on Accessibility, Higher Education, Gatsby, and WordPress.
 
-The majority of my work consists of web accessibility auditing and remediation and custom web development. I have been active in the higher education space since 2007.
+The majority of my work consists of web accessibility auditing and remediation and custom web development. I have been active in the Higher Education space since 2007.
 
 While 100% of my time is currently under contract, I am taking smaller jobs.
 
