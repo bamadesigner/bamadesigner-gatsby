@@ -1,24 +1,29 @@
 import React from "react"
+import PropTypes from "prop-types"
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 
 const IndexPage = ({ data }) => (
-  <Layout>
-    {data.allMarkdownRemark.edges.map(({ node }) => (
-      <div key={node.id}>
-        <h2 className="article-title">
-          <Link to={node.fields.slug}>
-            {node.frontmatter.title}{" "}
-          </Link>
-        </h2>
-        <div className="article-content">
-          <p>{node.excerpt}</p>
-        </div>
-      </div>
-    ))}
-  </Layout>
+	<Layout>
+		{data.allMarkdownRemark.edges.map(({ node }) => (
+			<div key={node.id}>
+				<h2 className="article-title">
+					<Link to={node.fields.slug}>
+						{node.frontmatter.title}{" "}
+					</Link>
+				</h2>
+				<div className="article-content">
+					<p>{node.excerpt}</p>
+				</div>
+			</div>
+		))}
+	</Layout>
 )
+
+IndexPage.propTypes = {
+	data: PropTypes.object.isRequired
+}
 
 export const query = graphql`
   query {

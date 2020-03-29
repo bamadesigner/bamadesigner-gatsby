@@ -14,23 +14,34 @@ import Footer from "./footer"
 
 import SEO from "../components/seo"
 
-const Layout = (props) => {
-  return (
-    <>
-      <SEO title={props.pageTitle} description={props.pageDescription} ogImage={props.ogImage} />
-      <a href="#content" id="skip-nav">Skip to main content</a>
-      <div id="wrapper">
-        <div id="bamadesigner-pic-small"></div>
-        <Header isHome={props.isHome} />
-        <Main>{props.children}</Main>
-        <Footer />
-      </div>
-    </>
-  )
+const Layout = ({ isHome, pageTitle, pageDescription, ogImage, children }) => {
+	return (
+		<>
+			<SEO title={pageTitle} description={pageDescription} ogImage={ogImage} />
+			<a href="#content" id="skip-nav">Skip to main content</a>
+			<div id="wrapper">
+				<div id="bamadesigner-pic-small"></div>
+				<Header isHome={isHome} />
+				<Main>{children}</Main>
+				<Footer />
+			</div>
+		</>
+	)
 }
 
 Layout.propTypes = {
-  children: PropTypes.node.isRequired,
+	isHome: PropTypes.bool,
+	pageTitle: PropTypes.string,
+	pageDescription: PropTypes.string,
+	children: PropTypes.node.isRequired,
+	ogImage: PropTypes.string,
+}
+
+Layout.defaultProps = {
+	isHome: false,
+	pageTitle: "",
+	pageDescription: "",
+	ogImage: ""
 }
 
 export default Layout
