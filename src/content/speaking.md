@@ -4,7 +4,7 @@ date: "2018-02-26"
 title: "Speaking"
 template: ""
 ---
-I've had the pleasure of sharing my experience and passions in a variety of formats, from conferences to podcasts to webinars. As you'll notice, I love to talk about accessibility and higher education, if you ever want to chat. I'm active in the WordPress community so most of my speaking engagements are for WordPress-related events or publications. I post [my presentation slides](https://www.slideshare.net/rachelcarden) on SlideShare.
+I've had the pleasure of sharing my experience and passions in a variety of formats, from conferences to podcasts to webinars. As you'll notice, I love to talk about accessibility and Higher Education, if you ever want to chat. I'm active in the WordPress community so most of my speaking engagements are for WordPress-related events or publications. I post [my presentation slides](https://www.slideshare.net/rachelcarden) on SlideShare.
 
 ## Webinars
 
@@ -26,7 +26,7 @@ Podcasts give me a chance to talk about the topics I'm passionate about while ha
 * WP Tavern: [Introduction to the WordPress Governance Project](https://wptavern.com/wpweekly-episode-344-introduction-to-the-wordpress-governance-project)
 * WP Tavern: [WordPress in HigherEd, Accessibility, and More](https://wptavern.com/wpweekly-episode-301-wordpress-in-highered-accessibility-and-more-with-rachel-cherry)
 * WP-Tonic Show: [General interview with a focus on WPCampus and accessibility](https://www.wp-tonic.com/podcast/259-wp-tonic-show-special-guest-rachel-cherry-wpcampus/)
-* Post Status Draft: [WordPress in higher education](https://poststatus.com/wordpress-higher-education-rachel-cherry-draft-podcast/)
+* Post Status Draft: [WordPress in Higher Education](https://poststatus.com/wordpress-higher-education-rachel-cherry-draft-podcast/)
 * Kitchen Sink WP: [General interview](https://kitchensinkwp.com/podcast-e182-this-week-i-interview-rachel-cherry/)
 * Office Hours: [What do Custom Post Types, Accessibility, and Education Have in Common?](https://officehours.fm/podcast/60-2/)
 * Matt Report: [WPCampus: Higher Education and WordPress](https://mattreport.com/wpcampus-higher-education-and-wordpress/)
@@ -59,7 +59,7 @@ Podcasts give me a chance to talk about the topics I'm passionate about while ha
 * **Birmingham** (2018)
     * **Workshop:** How to create accessible websites
 * **Boston** (2018)
-    * **Session:** WordPress in the world of higher education
+    * **Session:** WordPress in the world of Higher Education
     * **Workshop:** How to create accessible websites
 * **Seattle** (2017):
     * [Women in WordPress panel](https://2017.seattle.wordcamp.org/session/women-in-wordpress-panel/)
@@ -73,7 +73,7 @@ Podcasts give me a chance to talk about the topics I'm passionate about while ha
     * [In praise of the side project: How to learn new skills, make money, and have a little fun](https://2017.portland.wordcamp.org/session/in-praise-of-the-side-project-how-to-learn-new-skills-make-money-and-have-a-little-fun)
         * This was my first opportunity to discuss side projects. This is one of my favorite talks.
     * [Lightning Talks for big sites: higher ed, passwords, accessibility](https://2017.portland.wordcamp.org/session/lightning-talks)
-        * I did double duty that weekend and also gave a lightning talk on how WordPress is used in higher education.
+        * I did double duty that weekend and also gave a lightning talk on how WordPress is used in Higher Education.
 * **Orange County** (2017):
     * [Understanding and Supporting Web Accessibility](https://2017.oc.wordcamp.org/sessions/#wcorg-session-981)
         * As you'll notice, I discuss and advocate for accessibility as often as they'll let me.
@@ -88,7 +88,7 @@ Podcasts give me a chance to talk about the topics I'm passionate about while ha
         * The first time I shared my passion for accessibility.
 * **Tampa** (2015):
     * [Using WordPress in The World Of Higher Education](https://2015.tampa.wordcamp.org/session/using-wordpress-in-the-world-of-higher-education/)
-        * This was my first talk on how WordPress is used in the "enterprise on a budget" world of powering higher educational websites.
+        * This was my first talk on how WordPress is used in the "enterprise on a budget" world of powering Higher Education websites.
 * **Birmingham** (2014):
     * [Battle of the Front-End Frameworks: Bootstrap vs. Foundation](https://2014.birmingham.wordcamp.org/session/battle-of-the-front-end-frameworks-bootstrap-vs-foundation/)
         * I presented a comparison of two popular front-end frameworks.
@@ -98,7 +98,7 @@ Podcasts give me a chance to talk about the topics I'm passionate about while ha
 
 ## HighEdWeb
 
-[HighEdWeb](https://www.highedweb.org/) is an organization of web professionals working at institutions of higher education. I have been a proud member since [my first HighEdWeb conference](http://2011.highedweb.org/) in 2011 in Austin, Texas. HighEdWeb is also [a partner of WPCampus](http://wpcampus.org/about/).
+[HighEdWeb](https://www.highedweb.org/) is an organization of web professionals working at institutions of Higher Education. I have been a proud member since [my first HighEdWeb conference](http://2011.highedweb.org/) in 2011 in Austin, Texas. HighEdWeb is also [a partner of WPCampus](http://wpcampus.org/about/).
 
 * Sacramento, CA (2018)
     * Academy: [How to Engineer Accessible Websites](https://technical.highedweb.org/schedule/how-to-engineer-accessible-websites/)
