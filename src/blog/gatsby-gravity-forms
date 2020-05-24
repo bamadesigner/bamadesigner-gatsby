@@ -1,0 +1,11 @@
+---
+path: "/gatsby-gravity-forms"
+date: "2020-02-08"
+title: "How to use Gravity Forms with Gatsby"
+description: ""
+template: ""
+---
+
+Gravity Forms includes its rendered form markup in the wp-json REST API. It also goes so far to modify the action URL to point to the REST API. However, it also includes jQuery code so its not a viable solution on a 3rd party site that doesn't use jQuery.
+
+This did make me realize I could use this code to display a form on another site on my WordPress multisite network instead of using an <iframe>.

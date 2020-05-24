@@ -59,6 +59,11 @@ body {
   @include for-screen-reader();
 }
 
+iframe {
+  border: 0;
+  margin: 0 0 1rem;
+}
+
 // Stylize the "Skip To Content" link
 #skip-nav {
   display: block;

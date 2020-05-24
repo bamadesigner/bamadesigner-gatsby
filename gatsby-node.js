@@ -2,7 +2,13 @@ const path = require("path")
 const { existsSync } = require("fs")
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
-	const { createPage } = actions
+	const { createPage } = actions //createRedirect
+
+	/*createRedirect({
+		fromPath: "/2013/08/things-are-a-wordpress-changing",
+		toPath: "/",
+		isPermanent: true
+	})*/
 
 	const result = await graphql(`
     {
