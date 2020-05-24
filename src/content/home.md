@@ -8,7 +8,7 @@ Rachel Cherry (She/her) is a freelance software engineer and consultant with a 
 
 Previously, Rachel was a Senior Software Engineer for [Disney Consumer Products and Interactive Media](http://www.disneyinteractive.com/) and helped build a variety of Disney websites on various platforms, including [shopdisney.com](https://www.shopdisney.com/).
 
-She has worked over twelve years in Higher Education and is the Director of [WPCampus](https://www.wpcampus.org/), a community and [conferences](https://www.wpcampus.org/conferences/ "Learn more about WPCampus conferences") focused on using WordPress in the world of Higher Education.
+She has worked over twelve years in Higher Education and is the Founder and Director of [WPCampus](https://www.wpcampus.org/), a community and [conferences](https://www.wpcampus.org/conferences/ "Learn more about WPCampus conferences") focused on using WordPress in the world of Higher Education.
 
 Rachel is a member of [IAAP (International Association of Accessibility Professionals)](https://www.accessibilityassociation.org/) and is an impassioned advocate for the importance of online accessibility and universal design. [Learn more about online accessibility](/accessibility/).
 
