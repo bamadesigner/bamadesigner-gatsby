@@ -34,10 +34,10 @@ Podcasts give me a chance to talk about the topics I'm passionate about while ha
 * WP Engine: [WordPress Multisites For Higher Ed](https://www.youtube.com/watch?v=xbUVQISkJHY)
 * The WP Crowd: [CPT 101 WordPress Custom Post Types](https://www.thewpcrowd.com/podcast/episode-012-cpt-101-wordpress-custom-post-types/)
 * The WP Crowd: [Accessibility In WordPress](https://www.thewpcrowd.com/podcast/episode-006-accessibility-in-wordpress/)
-* WPCampus Podcast: [WPCampus 2016 Conference Retrospective](https://wpcampus.org/podcast/wpcampus-2016-retrospective/)
-* WPCampus Podcast: [WordPress Forms](https://wpcampus.org/podcast/wordpress-forms/)
-* WPCampus Podcast: [Accessibility](https://wpcampus.org/podcast/accessibility/)
-* WPCampus Podcast: [WordPress in Higher Education](https://wpcampus.org/podcast/wordpress-in-higher-education/)
+* WPCampus Podcast: [WPCampus 2016 Conference Retrospective](https://www.wpcampus.org/podcast/wpcampus-2016-retrospective/)
+* WPCampus Podcast: [WordPress Forms](https://www.wpcampus.org/podcast/wordpress-forms/)
+* WPCampus Podcast: [Accessibility](https://www.wpcampus.org/podcast/accessibility/)
+* WPCampus Podcast: [WordPress in Higher Education](https://www.wpcampus.org/podcast/wordpress-in-higher-education/)
 * HigherEdLive: [Takeaways from HighEdWeb Alabama](http://higheredlive.com/highedweb-alabama/)
 
 ## WordCamps
@@ -98,7 +98,7 @@ Podcasts give me a chance to talk about the topics I'm passionate about while ha
 
 ## HighEdWeb
 
-[HighEdWeb](https://www.highedweb.org/) is an organization of web professionals working at institutions of Higher Education. I have been a proud member since [my first HighEdWeb conference](http://2011.highedweb.org/) in 2011 in Austin, Texas. HighEdWeb is also [a partner of WPCampus](http://wpcampus.org/about/).
+[HighEdWeb](https://www.highedweb.org/) is an organization of web professionals working at institutions of Higher Education. I have been a proud member since [my first HighEdWeb conference](http://2011.highedweb.org/) in 2011 in Austin, Texas. HighEdWeb is also [a partner of WPCampus](http://www.wpcampus.org/about/partners/).
 
 * Sacramento, CA (2018)
     * Academy: [How to Engineer Accessible Websites](https://technical.highedweb.org/schedule/how-to-engineer-accessible-websites/)

@@ -69,7 +69,7 @@ SocialMediaNavItems.propTypes = {
 
 const SocialMediaNav = () => {
 	const items = [
-		{ key: "wpcampus", url: "https://wpcampus.org", label: "Follow WPCampus", icon: wpcIcon },
+		{ key: "wpcampus", url: "https://www.wpcampus.org", label: "Follow WPCampus", icon: wpcIcon },
 		{ key: "twitter", url: "https://twitter.com/bamadesigner", label: "Follow Rachel on Twitter", icon: twitterIcon },
 		{ key: "github", url: "https://github.com/bamadesigner", label: "Follow Rachel on GitHub", icon: githubIcon },
 		{ key: "wordpress", url: "https://profiles.wordpress.org/bamadesigner/profile/", label: "Follow Rachel on WordPress", icon: wpIcon },
