@@ -10,8 +10,6 @@ Previously, Rachel was a Senior Software Engineer for [Disney Consumer Products 
 
 She has worked over twelve years in Higher Education and is the Director of [WPCampus](https://wpcampus.org/), a community and [conferences](https://wpcampus.org/conferences/ "Learn more about WPCampus conferences") focused on using WordPress in the world of Higher Education.
 
-Rachel created (and moderates) a [Gatsby Groups.io forum](/gatsby/) where web developers discuss, share, support each other, and learn all things Gatsby. You are welcome to join.
-
 She is a maintainer/owner of the [WP Rig](https://wprig.io/) WordPress starter theme.
 
 Rachel is a member of [IAAP (International Association of Accessibility Professionals)](https://www.accessibilityassociation.org/) and is an impassioned advocate for the importance of online accessibility and universal design. [Learn more about online accessibility](/accessibility/).
