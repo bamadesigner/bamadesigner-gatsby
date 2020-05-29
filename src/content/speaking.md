@@ -4,7 +4,9 @@ date: "2018-02-26"
 title: "Speaking"
 template: ""
 ---
-I've had the pleasure of sharing my experience and passions in a variety of formats, from conferences to podcasts to webinars. As you'll notice, I love to talk about Accessibility and Higher Education, if you ever want to chat. I'm active in the WordPress community so most of my speaking engagements are for WordPress-related events or publications. I post [my presentation slides](https://www.slideshare.net/rachelcarden) on SlideShare.
+I've had the pleasure of sharing my experience and passions in various formats, from conferences to podcasts to webinars. As you'll notice, I love to talk about online accessibility and Higher Education.
+
+[Let me know](/contact/) if you want to chat.
 
 ## Webinars
 
