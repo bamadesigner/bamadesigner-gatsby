@@ -61,7 +61,7 @@ const Header = ({ isHome }) => {
 		<header id="header">
 			<div className="container">
 				<SiteTitleElement isHome={isHome} />
-				<div className="site-subtitle">Engineer. Accessibility. Open source. Higher ed. Community.</div>
+				<div className="site-subtitle">Accessibility. Higher ed. Engineer. Community. Open source.</div>
 				<div className="site-nav-wrapper">
 					<button className="site-nav-toggle" aria-label="Toggle menu">
 						<div className="toggle-icon">
