@@ -7,7 +7,7 @@ module.exports = {
 		siteUrl: "https://bamadesigner.com/",
 		title: "Rachel Cherry: Sofware engineer. Online accessibility specialist.",
 		shortTitle: "Rachel Cherry",
-		description: "Rachel Cherry is a freelance software engineer and consultant with over ten years experience in back and front-end web development and digital design. Rachel enjoys building an accessible, open web.",
+		description: "Rachel Cherry is a freelance software engineer, accessibility specialist, and consultant with over ten years experience in back and front-end web development and digital design. Rachel enjoys building an accessible, open web.",
 		authorTwitter: "bamadesigner",
 	},
 	plugins: [
