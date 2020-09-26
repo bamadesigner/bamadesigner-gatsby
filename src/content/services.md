@@ -5,7 +5,7 @@ title: "Services"
 template: ""
 description: ""
 ---
-I am a freelance software engineer and consultant with a focus on online accessibility, higher education, Gatsby, and WordPress.
+I am a freelance software engineer and consultant with a focus on online accessibility, higher education, and WordPress.
 
 The majority of my work consists of online accessibility auditing and remediation and custom web development. I have been active in the higher education space since 2007.
 

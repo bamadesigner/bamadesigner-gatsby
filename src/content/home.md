@@ -4,7 +4,7 @@ date: "2018-02-11"
 title: "Home"
 template: ""
 ---
-Rachel Cherry (She/her) is a freelance software engineer and consultant with a focus on online accessibility, higher education, Gatsby, and WordPress. With experience in back and front-end web development and digital design, she enjoys helping organizations address their online accessibility barriers and teaching others how to be more inclusive on the web.
+Rachel Cherry (She/her) is a freelance software engineer and consultant with a focus on online accessibility, higher education, and WordPress. With experience in back and front-end web development and digital design, she enjoys helping organizations address their online accessibility barriers and teaching others how to be more inclusive on the web.
 
 Previously, Rachel was a Senior Software Engineer for [Disney Consumer Products and Interactive Media](http://www.disneyinteractive.com/) and helped build a variety of Disney websites on various platforms, including [shopdisney.com](https://www.shopdisney.com/).
 
