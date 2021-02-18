@@ -21,6 +21,8 @@ While 100% of my time is currently under contract, I am taking smaller jobs.
     * Remediation
 * Gatsby:
     * Custom theme and application development
+* Svelte:
+    * Custom theme and application development
 * WordPress:
     * Custom plugin and theme development
     * I am an advanced WordPress developer who has been active in the community since 2011
