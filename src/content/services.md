@@ -9,7 +9,7 @@ I am a freelance software engineer and consultant with a focus on online accessi
 
 The majority of my work consists of online accessibility auditing and remediation and custom web development. I have been active in the higher education space since 2007.
 
-100% of my time is currently under contract. I am not taking any new jobs at this time.
+100% of my time is currently under contract. <strong>I am not taking any new jobs at this time.</strong>
 
 [Contact me](/contact/) for more information.
 
