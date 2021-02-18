@@ -49,7 +49,6 @@ const Header = ({ isHome }) => {
 		{ slug: "/accessibility/", label: "Accessibility" },
 		{ slug: "/speaking/", label: "Speaking" },
 		{ url: "https://www.wpcampus.org/", label: "WPCampus" },
-		{ url: "https://shop.spreadshirt.com/rachelcherry/", label: "Shop" },
 		//{ slug: '/reading', label: 'Reading' },
 		//{ slug: '/highered', label: 'Higher Ed' },
 		{ slug: "/contact/", label: "Contact" },
