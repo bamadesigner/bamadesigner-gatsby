@@ -50,7 +50,6 @@ const Header = ({ isHome }) => {
 		{ slug: "/speaking/", label: "Speaking" },
 		{ url: "https://www.wpcampus.org/", label: "WPCampus" },
 		{ url: "https://shop.spreadshirt.com/rachelcherry/", label: "Shop" },
-		{ slug: "/partners/", label: "Partners" },
 		//{ slug: '/reading', label: 'Reading' },
 		//{ slug: '/highered', label: 'Higher Ed' },
 		{ slug: "/contact/", label: "Contact" },
