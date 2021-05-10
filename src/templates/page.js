@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useEffect } from "react"
 import PropTypes from "prop-types"
 import { graphql, navigate } from "gatsby"
 
@@ -9,10 +9,12 @@ export default function Template({ data }) {
 	const { markdownRemark } = data // data.markdownRemark holds our post data
 	const { frontmatter, html } = markdownRemark
 
-	// @TODO need to setup server side redirect.
-	if ("/speaking/" === frontmatter.path) {
-		navigate("/presenting")
-	}
+	useEffect(() => {
+		// @TODO need to setup server side redirect.
+		if ("/speaking/" === frontmatter.path) {
+			navigate("/presenting")
+		}
+	})
 
 	let pageTitle = null
 	if (frontmatter.pageTitle) {
