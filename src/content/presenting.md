@@ -8,34 +8,6 @@ I've had the pleasure of sharing my experience and passions in various formats, 
 
 [Let me know](/contact/) if you want to chat.
 
-## Webinars
-
-Webinars take advantage of technology and allow anyone to teach, or share what they're working on, over the Internet, without the expense and (sometimes) hassle of travel.
-
-* iThemes: [Focus on my wA11y plugin and general accessibility](https://training.ithemes.com/webinar/plugin-focus-wa11y/)
-* WPSessions: [Understanding & Supporting Web Accessibility](https://wpsessions.com/sessions/understanding-supporting-web-accessibility/)
-
-## Podcasts/Interviews
-
-Podcasts give me a chance to talk about the topics I'm passionate about while hanging out with some pretty awesome people.
-
-* WP Tavern: [Introduction to the WordPress Governance Project](https://wptavern.com/wpweekly-episode-344-introduction-to-the-wordpress-governance-project)
-* WP Tavern: [WordPress in HigherEd, Accessibility, and More](https://wptavern.com/wpweekly-episode-301-wordpress-in-highered-accessibility-and-more-with-rachel-cherry)
-* WP-Tonic Show: [General interview with a focus on WPCampus and accessibility](https://www.wp-tonic.com/podcast/259-wp-tonic-show-special-guest-rachel-cherry-wpcampus/)
-* Post Status Draft: [WordPress in Higher Education](https://poststatus.com/wordpress-higher-education-rachel-cherry-draft-podcast/)
-* Kitchen Sink WP: [General interview](https://kitchensinkwp.com/podcast-e182-this-week-i-interview-rachel-cherry/)
-* Office Hours: [What do Custom Post Types, Accessibility, and Education Have in Common?](https://officehours.fm/podcast/60-2/)
-* Matt Report: [WPCampus: Higher Education and WordPress](https://mattreport.com/wpcampus-higher-education-and-wordpress/)
-* WPblab: [Accessibility, WordPress and Your Website](https://www.wpwatercooler.com/video/a11y-wordpress-website-wrachel-carden-bamadesigner-wpblab/)
-* WP Engine: [WordPress Multisites For Higher Ed](https://www.youtube.com/watch?v=xbUVQISkJHY)
-* The WP Crowd: [CPT 101 WordPress Custom Post Types](https://www.thewpcrowd.com/podcast/episode-012-cpt-101-wordpress-custom-post-types/)
-* The WP Crowd: [Accessibility In WordPress](https://www.thewpcrowd.com/podcast/episode-006-accessibility-in-wordpress/)
-* WPCampus Podcast: [WPCampus 2016 Conference Retrospective](https://www.wpcampus.org/podcast/wpcampus-2016-retrospective/)
-* WPCampus Podcast: [WordPress Forms](https://www.wpcampus.org/podcast/wordpress-forms/)
-* WPCampus Podcast: [Accessibility](https://www.wpcampus.org/podcast/accessibility/)
-* WPCampus Podcast: [WordPress in Higher Education](https://www.wpcampus.org/podcast/wordpress-in-higher-education/)
-* HigherEdLive: [Takeaways from HighEdWeb Alabama](http://higheredlive.com/highedweb-alabama/)
-
 ## WordCamps
 
 [WordCamps](https://central.wordcamp.org/) are community-organized conferences that focus on WordPress. They are (usually) city-based. These informal events allow myself, and other WordPress users, the opportunity to share what we're doing with WordPress, learn from others, and visit with dear friends. Sometimes I apply to present, sometimes I simply go to attend and enjoy the camaraderie and professional development. Some of my talks are posted on WordPress.tv. They are listed under [Rachel Cherry](https://wordpress.tv/speakers/rachel-cherry/) and [Rachel Carden](https://wordpress.tv/speakers/rachel-carden/).
@@ -131,6 +103,34 @@ LoopConf is a conference focused on WordPress developers. I was honored to prese
 
 * Session: [You are not your code: how to share your work without fear](https://2017.loopconf.com/talk/stop-giving-fck-people-think-code/)\n
     * My talk focused on ways to combat fears of inadequacy and judgment, the benefits we all gain from sharing our code with others, how we should embrace our mistakes as a means of improving, and more.
+
+## Webinars
+
+Webinars take advantage of technology and allow anyone to teach, or share what they're working on, over the Internet, without the expense and (sometimes) hassle of travel.
+
+* iThemes: [Focus on my wA11y plugin and general accessibility](https://training.ithemes.com/webinar/plugin-focus-wa11y/)
+* WPSessions: [Understanding & Supporting Web Accessibility](https://wpsessions.com/sessions/understanding-supporting-web-accessibility/)
+
+## Podcasts/Interviews
+
+Podcasts give me a chance to talk about the topics I'm passionate about while hanging out with some pretty awesome people.
+
+* WP Tavern: [Introduction to the WordPress Governance Project](https://wptavern.com/wpweekly-episode-344-introduction-to-the-wordpress-governance-project)
+* WP Tavern: [WordPress in HigherEd, Accessibility, and More](https://wptavern.com/wpweekly-episode-301-wordpress-in-highered-accessibility-and-more-with-rachel-cherry)
+* WP-Tonic Show: [General interview with a focus on WPCampus and accessibility](https://www.wp-tonic.com/podcast/259-wp-tonic-show-special-guest-rachel-cherry-wpcampus/)
+* Post Status Draft: [WordPress in Higher Education](https://poststatus.com/wordpress-higher-education-rachel-cherry-draft-podcast/)
+* Kitchen Sink WP: [General interview](https://kitchensinkwp.com/podcast-e182-this-week-i-interview-rachel-cherry/)
+* Office Hours: [What do Custom Post Types, Accessibility, and Education Have in Common?](https://officehours.fm/podcast/60-2/)
+* Matt Report: [WPCampus: Higher Education and WordPress](https://mattreport.com/wpcampus-higher-education-and-wordpress/)
+* WPblab: [Accessibility, WordPress and Your Website](https://www.wpwatercooler.com/video/a11y-wordpress-website-wrachel-carden-bamadesigner-wpblab/)
+* WP Engine: [WordPress Multisites For Higher Ed](https://www.youtube.com/watch?v=xbUVQISkJHY)
+* The WP Crowd: [CPT 101 WordPress Custom Post Types](https://www.thewpcrowd.com/podcast/episode-012-cpt-101-wordpress-custom-post-types/)
+* The WP Crowd: [Accessibility In WordPress](https://www.thewpcrowd.com/podcast/episode-006-accessibility-in-wordpress/)
+* WPCampus Podcast: [WPCampus 2016 Conference Retrospective](https://www.wpcampus.org/podcast/wpcampus-2016-retrospective/)
+* WPCampus Podcast: [WordPress Forms](https://www.wpcampus.org/podcast/wordpress-forms/)
+* WPCampus Podcast: [Accessibility](https://www.wpcampus.org/podcast/accessibility/)
+* WPCampus Podcast: [WordPress in Higher Education](https://www.wpcampus.org/podcast/wordpress-in-higher-education/)
+* HigherEdLive: [Takeaways from HighEdWeb Alabama](http://higheredlive.com/highedweb-alabama/)
 
 ## Meetups
 
