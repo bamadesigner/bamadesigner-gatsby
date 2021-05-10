@@ -4,7 +4,9 @@ date: "2018-02-26"
 title: "Presenting"
 template: ""
 ---
-I've had the pleasure of sharing my experience and passions in various formats, from conferences to podcasts to webinars. As you'll notice, I love to talk about online accessibility and higher education.
+I've had the pleasure of sharing my experience and passions in various formats, from conferences to podcasts to webinars.
+
+<strong>This is not a complete list</strong> but a good representation of my experience. As you'll notice, I love to talk about online accessibility and higher education.
 
 [Let me know](/contact/) if you want to chat.
 
