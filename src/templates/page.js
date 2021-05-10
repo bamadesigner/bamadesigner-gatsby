@@ -1,6 +1,6 @@
 import React from "react"
 import PropTypes from "prop-types"
-import { graphql } from "gatsby"
+import { graphql, navigate } from "gatsby"
 
 import Layout from "../components/layout"
 import Article from "../components/article"
@@ -8,6 +8,12 @@ import Article from "../components/article"
 export default function Template({ data }) {
 	const { markdownRemark } = data // data.markdownRemark holds our post data
 	const { frontmatter, html } = markdownRemark
+
+	// @TODO need to setup server side redirect.
+	if ("/speaking/" === frontmatter.path) {
+		navigate("/presenting")
+	}
+
 	let pageTitle = null
 	if (frontmatter.pageTitle) {
 		pageTitle = frontmatter.pageTitle

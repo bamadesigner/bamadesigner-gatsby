@@ -12,7 +12,7 @@ Rachel has worked for over thirteen years in higher education. She is the Founde
 
 Rachel is a member of [IAAP (International Association of Accessibility Professionals)](https://www.accessibilityassociation.org/) and is a passionate advocate for the importance of online accessibility and universal design. [Learn more about online accessibility](/accessibility/).
 
-Rachel also encourages collaboration and professional development as a public speaker and conference/meetup organizer. [She is an invited speaker](/speaking/) at numerous higher education, accessibility, and technology-focused events.
+Rachel also encourages collaboration and professional development as a presenter and conference/meetup organizer. [She is an invited presenter](/presenting/) at numerous higher education, accessibility, and technology-focused events.
 
 While no longer involved, Rachel is the founder of [WebTide](https://webtide.ua.edu/) and [Tuscaloosa Web Professionals](http://www.meetup.com/Tuscaloosa-Web-Professionals/) (now known as Spark Tuscaloosa) as well as an organizer of [HighEdWeb Alabama](http://al15.highedweb.org/) and [TEDxTuscaloosa](http://tedxtuscaloosa.com/).
 

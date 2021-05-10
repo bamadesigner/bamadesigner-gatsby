@@ -47,7 +47,7 @@ const Header = ({ isHome }) => {
 		//{ slug: '/blog', label: 'Blog' },
 		{ slug: "/services/", label: "Services" },
 		{ slug: "/accessibility/", label: "Accessibility" },
-		{ slug: "/speaking/", label: "Speaking" },
+		{ slug: "/presenting/", label: "Presenting" },
 		{ url: "https://www.wpcampus.org/", label: "WPCampus" },
 		//{ slug: '/reading', label: 'Reading' },
 		//{ slug: '/highered', label: 'Higher Ed' },
