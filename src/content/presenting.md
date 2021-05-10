@@ -15,12 +15,6 @@ Webinars take advantage of technology and allow anyone to teach, or share what t
 * iThemes: [Focus on my wA11y plugin and general accessibility](https://training.ithemes.com/webinar/plugin-focus-wa11y/)
 * WPSessions: [Understanding & Supporting Web Accessibility](https://wpsessions.com/sessions/understanding-supporting-web-accessibility/)
 
-## Workshops
-
-* [How to Create Accessible Websites](http://webaccessibilitysummit.org/schedule/how-to-create-accessible-websites/)
-    * [Web Accessibility Summit](http://webaccessibilitysummit.org/) (2018), Columbia, MO
-    * [Session slides and resources](/web-a11y-summit-2018/)
-
 ## Podcasts/Interviews
 
 Podcasts give me a chance to talk about the topics I'm passionate about while hanging out with some pretty awesome people.
@@ -121,6 +115,15 @@ HighEdWeb Alabama was a regional conference presented by HighEdWeb in 2015 and h
 
 * Session: [How to cultivate your own campus web community](https://al15.highedweb.org/schedule/campus-web-community/)
     * I co-presented with my friend David Horrar from The University of Louisville.
+
+## Accessibility Summit
+
+* 2020
+    * How to build accessible web forms
+* 2019
+    * [Building accessible single-page applications](https://a11ysummit19.highedweb.org/schedule/spa-workshop/)
+* 2018
+    * [How to Create Accessible Websites](http://webaccessibilitysummit.org/schedule/how-to-create-accessible-websites/)
 
 ## LoopConf
 
