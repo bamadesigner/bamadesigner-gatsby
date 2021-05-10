@@ -102,6 +102,10 @@ Podcasts give me a chance to talk about the topics I'm passionate about while ha
 
 [HighEdWeb](https://www.highedweb.org/) is an organization of web professionals working at institutions of higher education. I have been a proud member since [my first HighEdWeb conference](http://2011.highedweb.org/) in 2011 in Austin, Texas. HighEdWeb is also [a partner of WPCampus](http://www.wpcampus.org/about/partners/).
 
+* Milwaukee, WI (2019)
+    * Workshop: [How to Engineer Accessible Websites](https://technical.highedweb.org/schedule/session-saturday-930-noon/)
+    * Group discussion: Accessibility (moderator)
+    * Panel: On the side: Freelancing, Moonlighting, & Side-Hustling in Higher Ed(https://2019.highedweb.org/session/on-the-side-freelancing-moonlighting-side-hustling-in-higher-ed-a-panel/)
 * Sacramento, CA (2018)
     * Academy: [How to Engineer Accessible Websites](https://technical.highedweb.org/schedule/how-to-engineer-accessible-websites/)
     * Lightning talk: [ARIA: A bridge to greater web accessibility](https://bamadesigner.com/what-is-aria/)
