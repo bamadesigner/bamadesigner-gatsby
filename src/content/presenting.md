@@ -8,6 +8,15 @@ I've had the pleasure of sharing my experience and passions in various formats, 
 
 [Let me know](/contact/) if you want to chat.
 
+## WPCampus: Where WordPress meets higher education
+
+* **WPCampus 2020 Online**
+    * [The Five Ws of Decoupled Websites](https://2020.wpcampus.org/schedule/the-five-ws-of-decoupled-websites/)
+* **WPCampus 2019**
+    * [Let's talk accessibility](https://2019.wpcampus.org/schedule/lets-talk-accessibility/)
+* **WPCampus Online 2019**
+    * [The WPCampus Gutenberg Accessibility Audit](https://online.wpcampus.org/schedule/wpcampus-gutenberg-accessibility-audit/)
+
 ## WordCamps
 
 [WordCamps](https://central.wordcamp.org/) are community-organized conferences that focus on WordPress. They are (usually) city-based. These informal events allow myself, and other WordPress users, the opportunity to share what we're doing with WordPress, learn from others, and visit with dear friends. Sometimes I apply to present, sometimes I simply go to attend and enjoy the camaraderie and professional development. Some of my talks are posted on WordPress.tv. They are listed under [Rachel Cherry](https://wordpress.tv/speakers/rachel-cherry/) and [Rachel Carden](https://wordpress.tv/speakers/rachel-carden/).
